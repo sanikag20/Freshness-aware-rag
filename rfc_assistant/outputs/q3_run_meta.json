@@ -1,0 +1,8 @@
+{
+  "hardware": "Windows AMD64, 12 CPUs, Python 3.13.14",
+  "build_s": 47.5,
+  "n_chunks": 9377,
+  "n_docs": 240,
+  "golden_n": 34,
+  "test_n": 14
+}

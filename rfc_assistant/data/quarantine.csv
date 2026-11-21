@@ -1,0 +1,165 @@
+rfc,title,date,status,obsoletes,obsoleted_by,updated_by,violation,effective_date,tier
+97,First Cut at a Proposed Telnet Protocol,February 1971,UNKNOWN,[],[],[],unknown_status,1971-02-01,unknown
+114,File Transfer Protocol,April 1971,UNKNOWN,[],[],[],unknown_status,1971-04-01,unknown
+133,File Transfer and Error Recovery,April 1971,UNKNOWN,[],[],[],unknown_status,1971-04-01,unknown
+137,Telnet Protocol - a proposed document,April 1971,UNKNOWN,[],[],[],unknown_status,1971-04-01,unknown
+139,Discussion of Telnet Protocol,May 1971,UNKNOWN,[],[],[],unknown_status,1971-05-01,unknown
+141,Comments on RFC 114: A File Transfer Protocol,April 1971,UNKNOWN,[],[],[],unknown_status,1971-04-01,unknown
+158,Telnet Protocol: A Proposed Document,May 1971,UNKNOWN,[],[],[],unknown_status,1971-05-01,unknown
+172,The File Transfer Protocol,June 1971,UNKNOWN,[],[],[],unknown_status,1971-06-01,unknown
+196,Mail Box Protocol,July 1971,UNKNOWN,[],[],[],unknown_status,1971-07-01,unknown
+206,A User TELNET Description of an Initial Implementation,August 1971,UNKNOWN,[],[],[],unknown_status,1971-08-01,unknown
+215,"NCP, ICP, and Telnet: The Terminal IMP implementation",August 1971,UNKNOWN,[],[],[],unknown_status,1971-08-01,unknown
+216,Telnet Access to UCSB's On-Line System,September 1971,UNKNOWN,[],[],[],unknown_status,1971-09-01,unknown
+221,Mail Box Protocol: Version 2,August 1971,UNKNOWN,[],[],[],unknown_status,1971-08-01,unknown
+238,Comments on DTP and FTP proposals,September 1971,UNKNOWN,[],[],[],unknown_status,1971-09-01,unknown
+250,Some thoughts on file transfer,October 1971,UNKNOWN,[],[],[],unknown_status,1971-10-01,unknown
+265,The File Transfer Protocol,November 1971,UNKNOWN,[],[],[],unknown_status,1971-11-01,unknown
+269,Some Experience with File Transfer,December 1971,UNKNOWN,[],[],[],unknown_status,1971-12-01,unknown
+278,Revision of the Mail Box Protocol,November 1971,UNKNOWN,[],[],[],unknown_status,1971-11-01,unknown
+281,Suggested addition to File Transfer Protocol,December 1971,UNKNOWN,[],[],[],unknown_status,1971-12-01,unknown
+294,"The Use of ""Set Data Type"" Transaction in File Transfer Protocol",January 1972,UNKNOWN,[],[],[],unknown_status,1972-01-01,unknown
+309,Data and File Transfer Workshop Announcement,March 1972,UNKNOWN,[],[],[],unknown_status,1972-03-01,unknown
+310,Another Look at Data and File Transfer Protocols,April 1972,UNKNOWN,[],[],[],unknown_status,1972-04-01,unknown
+318,Telnet Protocols,April 1972,UNKNOWN,[],[],[],unknown_status,1972-04-01,unknown
+327,Data and File Transfer workshop notes,April 1972,UNKNOWN,[],[],[],unknown_status,1972-04-01,unknown
+328,Suggested Telnet Protocol Changes,April 1972,UNKNOWN,[],[],[],unknown_status,1972-04-01,unknown
+339,"MLTNET: A ""Multi Telnet"" Subsystem for Tenex",May 1972,UNKNOWN,[],[],[],unknown_status,1972-05-01,unknown
+340,Proposed Telnet Changes,May 1972,UNKNOWN,[],[],[],unknown_status,1972-05-01,unknown
+354,File Transfer Protocol,July 1972,UNKNOWN,[],[],[],unknown_status,1972-07-01,unknown
+385,Comments on the File Transfer Protocol,August 1972,UNKNOWN,[],[],[],unknown_status,1972-08-01,unknown
+393,Comments on Telnet Protocol Changes,October 1972,UNKNOWN,[],[],[],unknown_status,1972-10-01,unknown
+412,User FTP Documentation,November 1972,UNKNOWN,[],[],[],unknown_status,1972-11-01,unknown
+414,File Transfer Protocol (FTP) status and further comments,December 1972,UNKNOWN,[],[],[],unknown_status,1972-12-01,unknown
+430,Comments on File Transfer Protocol,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+435,Telnet issues,January 1973,UNKNOWN,[],[],[],unknown_status,1973-01-01,unknown
+438,FTP server-server interaction,January 1973,UNKNOWN,[],[],[],unknown_status,1973-01-01,unknown
+448,Print files in FTP,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+452,TELNET Command at Host LL,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+453,Meeting announcement to discuss a network mail system,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+454,File Transfer Protocol - meeting announcement and a new proposed document,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+456,Memorandum: Date change of mail meeting,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+458,Mail retrieval via FTP,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+461,Telnet Protocol meeting announcement,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+463,FTP comments and response to RFC 430,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+466,Telnet logger/server for host LL-67,February 1973,UNKNOWN,[],[],[],unknown_status,1973-02-01,unknown
+468,FTP data compression,March 1973,UNKNOWN,[],[],[],unknown_status,1973-03-01,unknown
+469,Network mail meeting summary,March 1973,UNKNOWN,[],[],[],unknown_status,1973-03-01,unknown
+475,FTP and Network Mail System,March 1973,UNKNOWN,[],[],[],unknown_status,1973-03-01,unknown
+478,FTP server-server interaction - II,March 1973,UNKNOWN,[],[],[],unknown_status,1973-03-01,unknown
+479,Use of FTP by the NIC Journal,March 1973,UNKNOWN,[],[],[],unknown_status,1973-03-01,unknown
+480,Host-dependent FTP parameters,March 1973,UNKNOWN,[],[],[],unknown_status,1973-03-01,unknown
+487,Free file transfer,April 1973,UNKNOWN,[],[],[],unknown_status,1973-04-01,unknown
+495,Telnet Protocol specifications,May 1973,UNKNOWN,[],[],[],unknown_status,1973-05-01,unknown
+498,On mail service to CCN,April 1973,UNKNOWN,[],[],[],unknown_status,1973-04-01,unknown
+501,"Un-muddling ""free file transfer""",May 1973,UNKNOWN,[],[],[],unknown_status,1973-05-01,unknown
+505,Two solutions to a file transfer access problem,June 1973,UNKNOWN,[],[],[],unknown_status,1973-06-01,unknown
+506,FTP command naming problem,June 1973,UNKNOWN,[],[],[],unknown_status,1973-06-01,unknown
+513,Comments on the new Telnet specifications,May 1973,UNKNOWN,[],[],[],unknown_status,1973-05-01,unknown
+520,Memo to FTP group: Proposal for File Access Protocol,June 1973,UNKNOWN,[],[],[],unknown_status,1973-06-01,unknown
+524,Proposed Mail Protocol,June 1973,UNKNOWN,[],[],[],unknown_status,1973-06-01,unknown
+532,UCSD-CC Server-FTP facility,July 1973,UNKNOWN,[],[],[],unknown_status,1973-07-01,unknown
+539,Thoughts on the mail protocol proposed in RFC 524,July 1973,UNKNOWN,[],[],[],unknown_status,1973-07-01,unknown
+542,File Transfer Protocol,August 1973,UNKNOWN,[],[],[],unknown_status,1973-08-01,unknown
+555,Responses to critiques of the proposed mail protocol,July 1973,UNKNOWN,[],[],[],unknown_status,1973-07-01,unknown
+559,Comments on The New Telnet Protocol and its Implementation,August 1973,UNKNOWN,[],[],[],unknown_status,1973-08-01,unknown
+560,Remote Controlled Transmission and Echoing Telnet option,August 1973,UNKNOWN,[],[],[],unknown_status,1973-08-01,unknown
+561,Standardizing Network Mail Headers,September 1973,UNKNOWN,[],[],[],unknown_status,1973-09-01,unknown
+562,Modifications to the TELNET Specification,August 1973,UNKNOWN,[],[],[],unknown_status,1973-08-01,unknown
+563,Comments on the RCTE Telnet option,August 1973,UNKNOWN,[],[],[],unknown_status,1973-08-01,unknown
+571,TENEX FTP PROBLEM,November 1973,UNKNOWN,[],[],[],unknown_status,1973-11-01,unknown
+573,DATA AND FILE TRANSFER - SOME MEASUREMENT RESULTS,September 1973,UNKNOWN,[],[],[],unknown_status,1973-09-01,unknown
+574,Announcement of a Mail Facility at UCSB,September 1973,UNKNOWN,[],[],[],unknown_status,1973-09-01,unknown
+577,Mail priority,October 1973,UNKNOWN,[],[],[],unknown_status,1973-10-01,unknown
+581,Corrections to RFC 560: Remote Controlled Transmission and Echoing Telnet Option,November 1973,UNKNOWN,[],[],[],unknown_status,1973-11-01,unknown
+587,Announcing New Telnet Options,November 1973,UNKNOWN,[],[],[],unknown_status,1973-11-01,unknown
+593,Telnet and FTP implementation schedule change,November 1973,UNKNOWN,[],[],[],unknown_status,1973-11-01,unknown
+595,Second thoughts in defense of the Telnet Go-Ahead,December 1973,UNKNOWN,[],[],[],unknown_status,1973-12-01,unknown
+596,Second thoughts on Telnet Go-Ahead,December 1973,UNKNOWN,[],[],[],unknown_status,1973-12-01,unknown
+607,Comments on the File Transfer Protocol,January 1974,UNKNOWN,[],[],[],unknown_status,1974-01-01,unknown
+614,"Response to RFC 607: ""Comments on the File Transfer Protocol""",January 1974,UNKNOWN,[],[],[],unknown_status,1974-01-01,unknown
+624,Comments on the File Transfer Protocol,February 1974,UNKNOWN,[],[],[],unknown_status,1974-02-01,unknown
+630,FTP error code usage for more reliable mail service,April 1974,UNKNOWN,[],[],[],unknown_status,1974-04-01,unknown
+640,Revised FTP reply codes,June 1974,UNKNOWN,[],[],[],unknown_status,1974-06-01,unknown
+644,On the problem of signature authentication for network mail,July 1974,UNKNOWN,[],[],[],unknown_status,1974-07-01,unknown
+651,Revised Telnet status option,October 1974,UNKNOWN,[],[],[],unknown_status,1974-10-01,unknown
+659,Announcing additional Telnet options,October 1974,UNKNOWN,[],[],[],unknown_status,1974-10-01,unknown
+669,"November, 1974, survey of New-Protocol Telnet servers",December 1974,UNKNOWN,[],[],[],unknown_status,1974-12-01,unknown
+679,"February, 1975, survey of New-Protocol Telnet servers",February 1975,UNKNOWN,[],[],[],unknown_status,1975-02-01,unknown
+688,Tentative schedule for the new Telnet implementation for the TIP,June 1975,UNKNOWN,[],[],[],unknown_status,1975-06-01,unknown
+691,One more try on the FTP,June 1975,UNKNOWN,[],[],[],unknown_status,1975-06-01,unknown
+697,CWD command of FTP,July 1975,UNKNOWN,[],[],[],unknown_status,1975-07-01,unknown
+701,"August, 1974, survey of New-Protocol Telnet servers",August 1974,UNKNOWN,[],[],[],unknown_status,1974-08-01,unknown
+702,"September, 1974, survey of New-Protocol Telnet servers",September 1974,UNKNOWN,[],[],[],unknown_status,1974-09-01,unknown
+703,"July, 1975, survey of New-Protocol Telnet Servers",July 1975,UNKNOWN,[],[],[],unknown_status,1975-07-01,unknown
+706,On the junk mail problem,November 1975,UNKNOWN,[],[],[],unknown_status,1975-11-01,unknown
+720,Address Specification Syntax for Network Mail,August 1976,UNKNOWN,[],[],[],unknown_status,1976-08-01,unknown
+728,Minor pitfall in the Telnet Protocol,April 1977,UNKNOWN,[],[],[],unknown_status,1977-04-01,unknown
+729,Telnet byte macro option,May 1977,UNKNOWN,[],[],[],unknown_status,1977-05-01,unknown
+731,Telnet Data Entry Terminal option,June 1977,UNKNOWN,[],[],[],unknown_status,1977-06-01,unknown
+732,Telnet Data Entry Terminal option,September 1977,UNKNOWN,[],[],[1043],unknown_status,1977-09-01,unknown
+737,FTP extension: XSEN,October 1977,UNKNOWN,[],[],[],unknown_status,1977-10-01,unknown
+743,FTP extension: XRSQ/XRCP,December 1977,UNKNOWN,[],[],[],unknown_status,1977-12-01,unknown
+748,Telnet randomly-lose option,April 1978,UNKNOWN,[],[],[],unknown_status,1978-04-01,april1
+751,Survey of FTP mail and MLFL,December 1978,UNKNOWN,[],[],[],unknown_status,1978-12-01,unknown
+753,Internet Message Protocol,March 1979,UNKNOWN,[],[],[],unknown_status,1979-03-01,unknown
+754,Out-of-net host addresses for mail,April 1979,UNKNOWN,[],[],[],unknown_status,1979-04-01,unknown
+756,NIC name server - a datagram-based information utility,July 1979,UNKNOWN,[],[],[],unknown_status,1979-07-01,unknown
+760,DoD standard Internet Protocol,January 1980,UNKNOWN,[],[],[],unknown_status,1980-01-01,unknown
+764,Telnet Protocol specification,June 1980,UNKNOWN,[],[],[],unknown_status,1980-06-01,unknown
+765,File Transfer Protocol specification,June 1980,UNKNOWN,[],[],[],unknown_status,1980-06-01,unknown
+766,Internet Protocol Handbook: Table of contents,July 1980,UNKNOWN,[],[],[],unknown_status,1980-07-01,unknown
+771,Mail transition plan,September 1980,UNKNOWN,[],[],[],unknown_status,1980-09-01,unknown
+772,Mail Transfer Protocol,September 1980,UNKNOWN,[],[],[],unknown_status,1980-09-01,unknown
+773,Comments on NCP/TCP mail service transition strategy,October 1980,UNKNOWN,[],[],[],unknown_status,1980-10-01,unknown
+774,Internet Protocol Handbook: Table of contents,October 1980,UNKNOWN,[],[],[],unknown_status,1980-10-01,unknown
+775,Directory oriented FTP commands,December 1980,UNKNOWN,[],[],[],unknown_status,1980-12-01,unknown
+780,Mail Transfer Protocol,May 1981,UNKNOWN,[],[],[],unknown_status,1981-05-01,unknown
+781,Specification of the Internet Protocol (IP) timestamp option,May 1981,UNKNOWN,[],[],[],unknown_status,1981-05-01,unknown
+784,Mail Transfer Protocol: ISI TOPS20 implementation,July 1981,UNKNOWN,[],[],[],unknown_status,1981-07-01,unknown
+785,Mail Transfer Protocol: ISI TOPS20 file definitions,July 1981,UNKNOWN,[],[],[],unknown_status,1981-07-01,unknown
+786,Mail Transfer Protocol: ISI TOPS20 MTP-NIMAIL interface,July 1981,UNKNOWN,[],[],[],unknown_status,1981-07-01,unknown
+788,Simple Mail Transfer Protocol,November 1981,UNKNOWN,[],[],[],unknown_status,1981-11-01,unknown
+801,NCP/TCP transition plan,November 1981,UNKNOWN,[],[],[],unknown_status,1981-11-01,unknown
+805,Computer mail meeting notes,February 1982,UNKNOWN,[],[],[],unknown_status,1982-02-01,unknown
+807,Multimedia mail meeting notes,February 1982,UNKNOWN,[],[],[],unknown_status,1982-02-01,unknown
+808,Summary of computer mail services meeting held at BBN on 10 January 1979,January 1979,UNKNOWN,[],[],[],unknown_status,1979-01-01,unknown
+815,IP datagram reassembly algorithms,July 1982,UNKNOWN,[],[],[],unknown_status,1982-07-01,unknown
+819,The Domain Naming Convention for Internet User Applications,August 1982,UNKNOWN,[],[],[],unknown_status,1982-08-01,unknown
+832,Who talks TCP?,December 1982,UNKNOWN,[],[],[],unknown_status,1982-12-01,unknown
+833,Who talks TCP?,December 1982,UNKNOWN,[],[],[],unknown_status,1982-12-01,unknown
+834,Who talks TCP?,December 1982,UNKNOWN,[],[],[],unknown_status,1982-12-01,unknown
+835,Who talks TCP?,December 1982,UNKNOWN,[],[],[],unknown_status,1982-12-01,unknown
+836,Who talks TCP?,January 1983,UNKNOWN,[],[],[],unknown_status,1983-01-01,unknown
+837,Who talks TCP?,January 1983,UNKNOWN,[],[],[],unknown_status,1983-01-01,unknown
+838,Who talks TCP?,January 1983,UNKNOWN,[],[],[],unknown_status,1983-01-01,unknown
+839,Who talks TCP?,January 1983,UNKNOWN,[],[],[],unknown_status,1983-01-01,unknown
+842,Who talks TCP? - survey of 1 February 83,February 1983,UNKNOWN,[],[],[],unknown_status,1983-02-01,unknown
+843,Who talks TCP? - survey of 8 February 83,February 1983,UNKNOWN,[],[],[],unknown_status,1983-02-01,unknown
+844,"Who talks ICMP, too? - Survey of 18 February 1983",February 1983,UNKNOWN,[],[],[],unknown_status,1983-02-01,unknown
+845,Who talks TCP? - survey of 15 February 1983,February 1983,UNKNOWN,[],[],[],unknown_status,1983-02-01,unknown
+846,Who talks TCP? - survey of 22 February 1983,February 1983,UNKNOWN,[],[],[],unknown_status,1983-02-01,unknown
+848,"Who provides the ""little"" TCP services?",March 1983,UNKNOWN,[],[],[],unknown_status,1983-03-01,unknown
+876,Survey of SMTP implementations,September 1983,UNKNOWN,[],[],[],unknown_status,1983-09-01,unknown
+881,Domain names plan and schedule,November 1983,UNKNOWN,[],[],[],unknown_status,1983-11-01,unknown
+882,Domain names: Concepts and facilities,November 1983,UNKNOWN,[],"[1034, 1035]",[],unknown_status,1983-11-01,unknown
+883,Domain names: Implementation specification,November 1983,UNKNOWN,[],"[1034, 1035]",[],unknown_status,1983-11-01,unknown
+884,Telnet terminal type option,December 1983,UNKNOWN,[],[],[],unknown_status,1983-12-01,unknown
+897,Domain name system implementation schedule,February 1984,UNKNOWN,[],[],[],unknown_status,1984-02-01,unknown
+902,ARPA Internet Protocol policy,July 1984,UNKNOWN,[],[],[],unknown_status,1984-07-01,unknown
+910,Multimedia mail meeting notes,August 1984,UNKNOWN,[],[],[],unknown_status,1984-08-01,unknown
+915,Network mail path service,December 1984,UNKNOWN,[],[],[],unknown_status,1984-12-01,unknown
+920,Domain requirements,October 1984,UNKNOWN,[],[],[],unknown_status,1984-10-01,unknown
+921,Domain name system implementation schedule - revised,October 1984,UNKNOWN,[],[],[],unknown_status,1984-10-01,unknown
+930,Telnet terminal type option,January 1985,UNKNOWN,[],[1091],[],unknown_status,1985-01-01,unknown
+949,FTP unique-named store command,July 1985,UNKNOWN,[],[],[],unknown_status,1985-07-01,unknown
+958,Network Time Protocol (NTP),September 1985,UNKNOWN,[],"[1059, 1119, 1305]",[],unknown_status,1985-09-01,unknown
+962,TCP-4 prime,November 1985,UNKNOWN,[],[],[],unknown_status,1985-11-01,unknown
+963,Some problems with the specification of the Military Standard Internet Protocol,November 1985,UNKNOWN,[],[],[],unknown_status,1985-11-01,unknown
+966,Host groups: A multicast extension to the Internet Protocol,December 1985,UNKNOWN,[],[],[],unknown_status,1985-12-01,unknown
+973,Domain system changes and observations,January 1986,UNKNOWN,[],"[1034, 1035]",[],unknown_status,1986-01-01,unknown
+976,UUCP mail interchange format standard,February 1986,UNKNOWN,[],[],[1137],unknown_status,1986-02-01,unknown
+982,Guidelines for the specification of the structure of the Domain Specific Part (DSP) of the ISO standard NSAP address,April 1986,UNKNOWN,[],[],[],unknown_status,1986-04-01,unknown
+983,ISO transport arrives on top of the TCP,April 1986,UNKNOWN,[],[1006],[],unknown_status,1986-04-01,unknown
+1059,Network Time Protocol (version 1) specification and implementation,July 1988,UNKNOWN,[],"[1119, 1305]",[],unknown_status,1988-07-01,unknown
+1119,Network Time Protocol (version 2) specification and implementation,September 1989,HISTORIC,[1059],[1305],[],implausibly_short_document,1989-09-01,historic

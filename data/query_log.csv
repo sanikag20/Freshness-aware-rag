@@ -1,0 +1,601 @@
+seq,ts,query,as_of,phase,intent
+1,2026-10-28T09:00:00Z,What is the student discount?,2026-10-11,before_EV-0002,student
+2,2026-10-28T09:00:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+3,2026-10-28T09:00:30Z,How long do I have to return boots in the UK?,2026-10-11,before_EV-0002,ret_uk_fw
+4,2026-10-28T09:00:45Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+5,2026-10-28T09:01:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+6,2026-10-28T09:01:15Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+7,2026-10-28T09:01:30Z,Standard delivery time to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+8,2026-10-28T09:01:45Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+9,2026-10-28T09:02:00Z,How long do I have to return boots in Canada?,2026-10-11,before_EV-0002,ret_ca_fw
+10,2026-10-28T09:02:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+11,2026-10-28T09:02:30Z,Standard delivery time to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+12,2026-10-28T09:02:45Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+13,2026-10-28T09:03:00Z,How long do I have to return boots in the UK?,2026-10-11,before_EV-0002,ret_uk_fw
+14,2026-10-28T09:03:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+15,2026-10-28T09:03:30Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+16,2026-10-28T09:03:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+17,2026-10-28T09:04:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+18,2026-10-28T09:04:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+19,2026-10-28T09:04:30Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+20,2026-10-28T09:04:45Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+21,2026-10-28T09:05:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+22,2026-10-28T09:05:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+23,2026-10-28T09:05:30Z,How do I wash my down jacket?,2026-10-11,before_EV-0002,care_down
+24,2026-10-28T09:05:45Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+25,2026-10-28T09:06:00Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+26,2026-10-28T09:06:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+27,2026-10-28T09:06:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+28,2026-10-28T09:06:45Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+29,2026-10-28T09:07:00Z,How long do I have to return boots in Canada?,2026-10-11,before_EV-0002,ret_ca_fw
+30,2026-10-28T09:07:15Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+31,2026-10-28T09:07:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+32,2026-10-28T09:07:45Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+33,2026-10-28T09:08:00Z,How long do I have to return boots in the UK?,2026-10-11,before_EV-0002,ret_uk_fw
+34,2026-10-28T09:08:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+35,2026-10-28T09:08:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+36,2026-10-28T09:08:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+37,2026-10-28T09:09:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+38,2026-10-28T09:09:15Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+39,2026-10-28T09:09:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+40,2026-10-28T09:09:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+41,2026-10-28T09:10:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+42,2026-10-28T09:10:15Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+43,2026-10-28T09:10:30Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+44,2026-10-28T09:10:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+45,2026-10-28T09:11:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+46,2026-10-28T09:11:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+47,2026-10-28T09:11:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+48,2026-10-28T09:11:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+49,2026-10-28T09:12:00Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+50,2026-10-28T09:12:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+51,2026-10-28T09:12:30Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+52,2026-10-28T09:12:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+53,2026-10-28T09:13:00Z,What is the student discount?,2026-10-11,before_EV-0002,student
+54,2026-10-28T09:13:15Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+55,2026-10-28T09:13:30Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+56,2026-10-28T09:13:45Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+57,2026-10-28T09:14:00Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+58,2026-10-28T09:14:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+59,2026-10-28T09:14:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+60,2026-10-28T09:14:45Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+61,2026-10-28T09:15:00Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+62,2026-10-28T09:15:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+63,2026-10-28T09:15:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+64,2026-10-28T09:15:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+65,2026-10-28T09:16:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+66,2026-10-28T09:16:15Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+67,2026-10-28T09:16:30Z,How long does standard shipping take to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+68,2026-10-28T09:16:45Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+69,2026-10-28T09:17:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+70,2026-10-28T09:17:15Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+71,2026-10-28T09:17:30Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+72,2026-10-28T09:17:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+73,2026-10-28T09:18:00Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+74,2026-10-28T09:18:15Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+75,2026-10-28T09:18:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+76,2026-10-28T09:18:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+77,2026-10-28T09:19:00Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+78,2026-10-28T09:19:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+79,2026-10-28T09:19:30Z,How do I wash my down jacket?,2026-10-11,before_EV-0002,care_down
+80,2026-10-28T09:19:45Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+81,2026-10-28T09:20:00Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+82,2026-10-28T09:20:15Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+83,2026-10-28T09:20:30Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+84,2026-10-28T09:20:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+85,2026-10-28T09:21:00Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+86,2026-10-28T09:21:15Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+87,2026-10-28T09:21:30Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+88,2026-10-28T09:21:45Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+89,2026-10-28T09:22:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+90,2026-10-28T09:22:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+91,2026-10-28T09:22:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+92,2026-10-28T09:22:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+93,2026-10-28T09:23:00Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+94,2026-10-28T09:23:15Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+95,2026-10-28T09:23:30Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+96,2026-10-28T09:23:45Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+97,2026-10-28T09:24:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+98,2026-10-28T09:24:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+99,2026-10-28T09:24:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+100,2026-10-28T09:24:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+101,2026-10-28T09:25:00Z,How long does standard shipping take to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+102,2026-10-28T09:25:15Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+103,2026-10-28T09:25:30Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+104,2026-10-28T09:25:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+105,2026-10-28T09:26:00Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+106,2026-10-28T09:26:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+107,2026-10-28T09:26:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+108,2026-10-28T09:26:45Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+109,2026-10-28T09:27:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+110,2026-10-28T09:27:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+111,2026-10-28T09:27:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+112,2026-10-28T09:27:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+113,2026-10-28T09:28:00Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+114,2026-10-28T09:28:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+115,2026-10-28T09:28:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+116,2026-10-28T09:28:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+117,2026-10-28T09:29:00Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+118,2026-10-28T09:29:15Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+119,2026-10-28T09:29:30Z,How long do I have to return boots in Canada?,2026-10-11,before_EV-0002,ret_ca_fw
+120,2026-10-28T09:29:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+121,2026-10-28T09:30:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+122,2026-10-28T09:30:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+123,2026-10-28T09:30:30Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+124,2026-10-28T09:30:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+125,2026-10-28T09:31:00Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+126,2026-10-28T09:31:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+127,2026-10-28T09:31:30Z,Standard delivery time to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+128,2026-10-28T09:31:45Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+129,2026-10-28T09:32:00Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+130,2026-10-28T09:32:15Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+131,2026-10-28T09:32:30Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+132,2026-10-28T09:32:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+133,2026-10-28T09:33:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+134,2026-10-28T09:33:15Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+135,2026-10-28T09:33:30Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+136,2026-10-28T09:33:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+137,2026-10-28T09:34:00Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+138,2026-10-28T09:34:15Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+139,2026-10-28T09:34:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+140,2026-10-28T09:34:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+141,2026-10-28T09:35:00Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+142,2026-10-28T09:35:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+143,2026-10-28T09:35:30Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+144,2026-10-28T09:35:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+145,2026-10-28T09:36:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+146,2026-10-28T09:36:15Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+147,2026-10-28T09:36:30Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+148,2026-10-28T09:36:45Z,How do I wash my down jacket?,2026-10-11,before_EV-0002,care_down
+149,2026-10-28T09:37:00Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+150,2026-10-28T09:37:15Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+151,2026-10-28T09:37:30Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+152,2026-10-28T09:37:45Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+153,2026-10-28T09:38:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+154,2026-10-28T09:38:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+155,2026-10-28T09:38:30Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+156,2026-10-28T09:38:45Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+157,2026-10-28T09:39:00Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+158,2026-10-28T09:39:15Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+159,2026-10-28T09:39:30Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+160,2026-10-28T09:39:45Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+161,2026-10-28T09:40:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+162,2026-10-28T09:40:15Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+163,2026-10-28T09:40:30Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+164,2026-10-28T09:40:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+165,2026-10-28T09:41:00Z,How long do I have to return boots in the UK?,2026-10-11,before_EV-0002,ret_uk_fw
+166,2026-10-28T09:41:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+167,2026-10-28T09:41:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+168,2026-10-28T09:41:45Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+169,2026-10-28T09:42:00Z,How long do I have to return boots in Canada?,2026-10-11,before_EV-0002,ret_ca_fw
+170,2026-10-28T09:42:15Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+171,2026-10-28T09:42:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+172,2026-10-28T09:42:45Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+173,2026-10-28T09:43:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+174,2026-10-28T09:43:15Z,How long do I have to return boots in the UK?,2026-10-11,before_EV-0002,ret_uk_fw
+175,2026-10-28T09:43:30Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+176,2026-10-28T09:43:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+177,2026-10-28T09:44:00Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+178,2026-10-28T09:44:15Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+179,2026-10-28T09:44:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+180,2026-10-28T09:44:45Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+181,2026-10-28T09:45:00Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+182,2026-10-28T09:45:15Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+183,2026-10-28T09:45:30Z,What is the student discount?,2026-10-11,before_EV-0002,student
+184,2026-10-28T09:45:45Z,Standard delivery time to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+185,2026-10-28T09:46:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+186,2026-10-28T09:46:15Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+187,2026-10-28T09:46:30Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+188,2026-10-28T09:46:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+189,2026-10-28T09:47:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+190,2026-10-28T09:47:15Z,How long does standard shipping take to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+191,2026-10-28T09:47:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+192,2026-10-28T09:47:45Z,How do I wash my down jacket?,2026-10-11,before_EV-0002,care_down
+193,2026-10-28T09:48:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+194,2026-10-28T09:48:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+195,2026-10-28T09:48:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+196,2026-10-28T09:48:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+197,2026-10-28T09:49:00Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+198,2026-10-28T09:49:15Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+199,2026-10-28T09:49:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+200,2026-10-28T09:49:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+201,2026-10-28T09:50:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+202,2026-10-28T09:50:15Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+203,2026-10-28T09:50:30Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+204,2026-10-28T09:50:45Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+205,2026-10-28T09:51:00Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+206,2026-10-28T09:51:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+207,2026-10-28T09:51:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+208,2026-10-28T09:51:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+209,2026-10-28T09:52:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+210,2026-10-28T09:52:15Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+211,2026-10-28T09:52:30Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+212,2026-10-28T09:52:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+213,2026-10-28T09:53:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+214,2026-10-28T09:53:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+215,2026-10-28T09:53:30Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+216,2026-10-28T09:53:45Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+217,2026-10-28T09:54:00Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+218,2026-10-28T09:54:15Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+219,2026-10-28T09:54:30Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+220,2026-10-28T09:54:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+221,2026-10-28T09:55:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+222,2026-10-28T09:55:15Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+223,2026-10-28T09:55:30Z,Standard delivery time to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+224,2026-10-28T09:55:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+225,2026-10-28T09:56:00Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+226,2026-10-28T09:56:15Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+227,2026-10-28T09:56:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+228,2026-10-28T09:56:45Z,How do I wash my down jacket?,2026-10-11,before_EV-0002,care_down
+229,2026-10-28T09:57:00Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+230,2026-10-28T09:57:15Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+231,2026-10-28T09:57:30Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+232,2026-10-28T09:57:45Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+233,2026-10-28T09:58:00Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+234,2026-10-28T09:58:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+235,2026-10-28T09:58:30Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+236,2026-10-28T09:58:45Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+237,2026-10-28T09:59:00Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+238,2026-10-28T09:59:15Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+239,2026-10-28T09:59:30Z,Does my Northbeam gift card ever expire?,2026-10-11,before_EV-0002,giftcard
+240,2026-10-28T09:59:45Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+241,2026-10-28T10:00:00Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+242,2026-10-28T10:00:15Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+243,2026-10-28T10:00:30Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+244,2026-10-28T10:00:45Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+245,2026-10-28T10:01:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+246,2026-10-28T10:01:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+247,2026-10-28T10:01:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+248,2026-10-28T10:01:45Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+249,2026-10-28T10:02:00Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+250,2026-10-28T10:02:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+251,2026-10-28T10:02:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+252,2026-10-28T10:02:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+253,2026-10-28T10:03:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+254,2026-10-28T10:03:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+255,2026-10-28T10:03:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+256,2026-10-28T10:03:45Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+257,2026-10-28T10:04:00Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+258,2026-10-28T10:04:15Z,How long does my reset link last?,2026-10-11,before_EV-0002,pwreset
+259,2026-10-28T10:04:30Z,How long do I have to return a jacket in the US?,2026-10-11,before_EV-0002,ret_us_app
+260,2026-10-28T10:04:45Z,How should I clean the Summit Down Jacket?,2026-10-11,before_EV-0002,care_down
+261,2026-10-28T10:05:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+262,2026-10-28T10:05:15Z,How long do I have to return boots in the US?,2026-10-11,before_EV-0002,ret_us_fw
+263,2026-10-28T10:05:30Z,US expedited shipping price?,2026-10-11,before_EV-0002,ship_us_exp
+264,2026-10-28T10:05:45Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+265,2026-10-28T10:06:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+266,2026-10-28T10:06:15Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+267,2026-10-28T10:06:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+268,2026-10-28T10:06:45Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+269,2026-10-28T10:07:00Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+270,2026-10-28T10:07:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+271,2026-10-28T10:07:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+272,2026-10-28T10:07:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+273,2026-10-28T10:08:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+274,2026-10-28T10:08:15Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+275,2026-10-28T10:08:30Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+276,2026-10-28T10:08:45Z,How long is a password reset link valid?,2026-10-11,before_EV-0002,pwreset
+277,2026-10-28T10:09:00Z,Standard delivery time to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+278,2026-10-28T10:09:15Z,Do gift cards expire?,2026-10-11,before_EV-0002,giftcard
+279,2026-10-28T10:09:30Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+280,2026-10-28T10:09:45Z,US return window for a rain jacket?,2026-10-11,before_EV-0002,ret_us_app
+281,2026-10-28T10:10:00Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+282,2026-10-28T10:10:15Z,How do I wash my down jacket?,2026-10-11,before_EV-0002,care_down
+283,2026-10-28T10:10:30Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+284,2026-10-28T10:10:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+285,2026-10-28T10:11:00Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+286,2026-10-28T10:11:15Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+287,2026-10-28T10:11:30Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+288,2026-10-28T10:11:45Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+289,2026-10-28T10:12:00Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+290,2026-10-28T10:12:15Z,How long do I have to return boots in Canada?,2026-10-11,before_EV-0002,ret_ca_fw
+291,2026-10-28T10:12:30Z,What is the US return window for hiking boots?,2026-10-11,before_EV-0002,ret_us_fw
+292,2026-10-28T10:12:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+293,2026-10-28T10:13:00Z,How long do I have to return boots in the UK?,2026-10-11,before_EV-0002,ret_uk_fw
+294,2026-10-28T10:13:15Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+295,2026-10-28T10:13:30Z,What does expedited shipping cost in the United States?,2026-10-11,before_EV-0002,ship_us_exp
+296,2026-10-28T10:13:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+297,2026-10-28T10:14:00Z,What's the minimum for free shipping in the US?,2026-10-11,before_EV-0002,ship_us_std
+298,2026-10-28T10:14:15Z,How much do I need to spend for free US shipping?,2026-10-11,before_EV-0002,ship_us_std
+299,2026-10-28T10:14:30Z,How long does standard shipping take to Canada?,2026-10-11,before_EV-0002,ship_ca_std
+300,2026-10-28T10:14:45Z,How much is expedited shipping in the US?,2026-10-11,before_EV-0002,ship_us_exp
+301,2026-10-28T10:15:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+302,2026-10-28T10:15:15Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+303,2026-10-28T10:15:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+304,2026-10-28T10:15:45Z,How long does my reset link last?,2026-10-29,after_EV-0002,pwreset
+305,2026-10-28T10:16:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+306,2026-10-28T10:16:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+307,2026-10-28T10:16:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+308,2026-10-28T10:16:45Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+309,2026-10-28T10:17:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+310,2026-10-28T10:17:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+311,2026-10-28T10:17:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+312,2026-10-28T10:17:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+313,2026-10-28T10:18:00Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+314,2026-10-28T10:18:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+315,2026-10-28T10:18:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+316,2026-10-28T10:18:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+317,2026-10-28T10:19:00Z,How long do I have to return a jacket in the US?,2026-10-29,after_EV-0002,ret_us_app
+318,2026-10-28T10:19:15Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+319,2026-10-28T10:19:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+320,2026-10-28T10:19:45Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+321,2026-10-28T10:20:00Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+322,2026-10-28T10:20:15Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+323,2026-10-28T10:20:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+324,2026-10-28T10:20:45Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+325,2026-10-28T10:21:00Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+326,2026-10-28T10:21:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+327,2026-10-28T10:21:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+328,2026-10-28T10:21:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+329,2026-10-28T10:22:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+330,2026-10-28T10:22:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+331,2026-10-28T10:22:30Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+332,2026-10-28T10:22:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+333,2026-10-28T10:23:00Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+334,2026-10-28T10:23:15Z,How long does standard shipping take to Canada?,2026-10-29,after_EV-0002,ship_ca_std
+335,2026-10-28T10:23:30Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+336,2026-10-28T10:23:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+337,2026-10-28T10:24:00Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+338,2026-10-28T10:24:15Z,What is the student discount?,2026-10-29,after_EV-0002,student
+339,2026-10-28T10:24:30Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+340,2026-10-28T10:24:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+341,2026-10-28T10:25:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+342,2026-10-28T10:25:15Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+343,2026-10-28T10:25:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+344,2026-10-28T10:25:45Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+345,2026-10-28T10:26:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+346,2026-10-28T10:26:15Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+347,2026-10-28T10:26:30Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+348,2026-10-28T10:26:45Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+349,2026-10-28T10:27:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+350,2026-10-28T10:27:15Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+351,2026-10-28T10:27:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+352,2026-10-28T10:27:45Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+353,2026-10-28T10:28:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+354,2026-10-28T10:28:15Z,How long does standard shipping take to Canada?,2026-10-29,after_EV-0002,ship_ca_std
+355,2026-10-28T10:28:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+356,2026-10-28T10:28:45Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+357,2026-10-28T10:29:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+358,2026-10-28T10:29:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+359,2026-10-28T10:29:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+360,2026-10-28T10:29:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+361,2026-10-28T10:30:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+362,2026-10-28T10:30:15Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+363,2026-10-28T10:30:30Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+364,2026-10-28T10:30:45Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+365,2026-10-28T10:31:00Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+366,2026-10-28T10:31:15Z,How long do I have to return a jacket in the US?,2026-10-29,after_EV-0002,ret_us_app
+367,2026-10-28T10:31:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+368,2026-10-28T10:31:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+369,2026-10-28T10:32:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+370,2026-10-28T10:32:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+371,2026-10-28T10:32:30Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+372,2026-10-28T10:32:45Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+373,2026-10-28T10:33:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+374,2026-10-28T10:33:15Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+375,2026-10-28T10:33:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+376,2026-10-28T10:33:45Z,How long do I have to return a jacket in the US?,2026-10-29,after_EV-0002,ret_us_app
+377,2026-10-28T10:34:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+378,2026-10-28T10:34:15Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+379,2026-10-28T10:34:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+380,2026-10-28T10:34:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+381,2026-10-28T10:35:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+382,2026-10-28T10:35:15Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+383,2026-10-28T10:35:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+384,2026-10-28T10:35:45Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+385,2026-10-28T10:36:00Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+386,2026-10-28T10:36:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+387,2026-10-28T10:36:30Z,How long does standard shipping take to Canada?,2026-10-29,after_EV-0002,ship_ca_std
+388,2026-10-28T10:36:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+389,2026-10-28T10:37:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+390,2026-10-28T10:37:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+391,2026-10-28T10:37:30Z,How long does my reset link last?,2026-10-29,after_EV-0002,pwreset
+392,2026-10-28T10:37:45Z,Standard delivery time to Canada?,2026-10-29,after_EV-0002,ship_ca_std
+393,2026-10-28T10:38:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+394,2026-10-28T10:38:15Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+395,2026-10-28T10:38:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+396,2026-10-28T10:38:45Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+397,2026-10-28T10:39:00Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+398,2026-10-28T10:39:15Z,How long do I have to return a jacket in the US?,2026-10-29,after_EV-0002,ret_us_app
+399,2026-10-28T10:39:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+400,2026-10-28T10:39:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+401,2026-10-28T10:40:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+402,2026-10-28T10:40:15Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+403,2026-10-28T10:40:30Z,How long does my reset link last?,2026-10-29,after_EV-0002,pwreset
+404,2026-10-28T10:40:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+405,2026-10-28T10:41:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+406,2026-10-28T10:41:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+407,2026-10-28T10:41:30Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+408,2026-10-28T10:41:45Z,How long does my reset link last?,2026-10-29,after_EV-0002,pwreset
+409,2026-10-28T10:42:00Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+410,2026-10-28T10:42:15Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+411,2026-10-28T10:42:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+412,2026-10-28T10:42:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+413,2026-10-28T10:43:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+414,2026-10-28T10:43:15Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+415,2026-10-28T10:43:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+416,2026-10-28T10:43:45Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+417,2026-10-28T10:44:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+418,2026-10-28T10:44:15Z,What is the student discount?,2026-10-29,after_EV-0002,student
+419,2026-10-28T10:44:30Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+420,2026-10-28T10:44:45Z,Does my Northbeam gift card ever expire?,2026-10-29,after_EV-0002,giftcard
+421,2026-10-28T10:45:00Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+422,2026-10-28T10:45:15Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+423,2026-10-28T10:45:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+424,2026-10-28T10:45:45Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+425,2026-10-28T10:46:00Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+426,2026-10-28T10:46:15Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+427,2026-10-28T10:46:30Z,What is the student discount?,2026-10-29,after_EV-0002,student
+428,2026-10-28T10:46:45Z,What is the student discount?,2026-10-29,after_EV-0002,student
+429,2026-10-28T10:47:00Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+430,2026-10-28T10:47:15Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+431,2026-10-28T10:47:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+432,2026-10-28T10:47:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+433,2026-10-28T10:48:00Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+434,2026-10-28T10:48:15Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+435,2026-10-28T10:48:30Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+436,2026-10-28T10:48:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+437,2026-10-28T10:49:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+438,2026-10-28T10:49:15Z,Does my Northbeam gift card ever expire?,2026-10-29,after_EV-0002,giftcard
+439,2026-10-28T10:49:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+440,2026-10-28T10:49:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+441,2026-10-28T10:50:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+442,2026-10-28T10:50:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+443,2026-10-28T10:50:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+444,2026-10-28T10:50:45Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+445,2026-10-28T10:51:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+446,2026-10-28T10:51:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+447,2026-10-28T10:51:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+448,2026-10-28T10:51:45Z,How long do I have to return boots in Canada?,2026-10-29,after_EV-0002,ret_ca_fw
+449,2026-10-28T10:52:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+450,2026-10-28T10:52:15Z,Does my Northbeam gift card ever expire?,2026-10-29,after_EV-0002,giftcard
+451,2026-10-28T10:52:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+452,2026-10-28T10:52:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+453,2026-10-28T10:53:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+454,2026-10-28T10:53:15Z,How long do I have to return boots in Canada?,2026-10-29,after_EV-0002,ret_ca_fw
+455,2026-10-28T10:53:30Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+456,2026-10-28T10:53:45Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+457,2026-10-28T10:54:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+458,2026-10-28T10:54:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+459,2026-10-28T10:54:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+460,2026-10-28T10:54:45Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+461,2026-10-28T10:55:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+462,2026-10-28T10:55:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+463,2026-10-28T10:55:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+464,2026-10-28T10:55:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+465,2026-10-28T10:56:00Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+466,2026-10-28T10:56:15Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+467,2026-10-28T10:56:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+468,2026-10-28T10:56:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+469,2026-10-28T10:57:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+470,2026-10-28T10:57:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+471,2026-10-28T10:57:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+472,2026-10-28T10:57:45Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+473,2026-10-28T10:58:00Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+474,2026-10-28T10:58:15Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+475,2026-10-28T10:58:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+476,2026-10-28T10:58:45Z,How long do I have to return boots in Canada?,2026-10-29,after_EV-0002,ret_ca_fw
+477,2026-10-28T10:59:00Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+478,2026-10-28T10:59:15Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+479,2026-10-28T10:59:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+480,2026-10-28T10:59:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+481,2026-10-28T11:00:00Z,What is the student discount?,2026-10-29,after_EV-0002,student
+482,2026-10-28T11:00:15Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+483,2026-10-28T11:00:30Z,Does my Northbeam gift card ever expire?,2026-10-29,after_EV-0002,giftcard
+484,2026-10-28T11:00:45Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+485,2026-10-28T11:01:00Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+486,2026-10-28T11:01:15Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+487,2026-10-28T11:01:30Z,Does my Northbeam gift card ever expire?,2026-10-29,after_EV-0002,giftcard
+488,2026-10-28T11:01:45Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+489,2026-10-28T11:02:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+490,2026-10-28T11:02:15Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+491,2026-10-28T11:02:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+492,2026-10-28T11:02:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+493,2026-10-28T11:03:00Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+494,2026-10-28T11:03:15Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+495,2026-10-28T11:03:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+496,2026-10-28T11:03:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+497,2026-10-28T11:04:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+498,2026-10-28T11:04:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+499,2026-10-28T11:04:30Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+500,2026-10-28T11:04:45Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+501,2026-10-28T11:05:00Z,How long do I have to return a jacket in the US?,2026-10-29,after_EV-0002,ret_us_app
+502,2026-10-28T11:05:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+503,2026-10-28T11:05:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+504,2026-10-28T11:05:45Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+505,2026-10-28T11:06:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+506,2026-10-28T11:06:15Z,How long do I have to return a jacket in the US?,2026-10-29,after_EV-0002,ret_us_app
+507,2026-10-28T11:06:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+508,2026-10-28T11:06:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+509,2026-10-28T11:07:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+510,2026-10-28T11:07:15Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+511,2026-10-28T11:07:30Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+512,2026-10-28T11:07:45Z,How long does my reset link last?,2026-10-29,after_EV-0002,pwreset
+513,2026-10-28T11:08:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+514,2026-10-28T11:08:15Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+515,2026-10-28T11:08:30Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+516,2026-10-28T11:08:45Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+517,2026-10-28T11:09:00Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+518,2026-10-28T11:09:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+519,2026-10-28T11:09:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+520,2026-10-28T11:09:45Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+521,2026-10-28T11:10:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+522,2026-10-28T11:10:15Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+523,2026-10-28T11:10:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+524,2026-10-28T11:10:45Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+525,2026-10-28T11:11:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+526,2026-10-28T11:11:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+527,2026-10-28T11:11:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+528,2026-10-28T11:11:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+529,2026-10-28T11:12:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+530,2026-10-28T11:12:15Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+531,2026-10-28T11:12:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+532,2026-10-28T11:12:45Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+533,2026-10-28T11:13:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+534,2026-10-28T11:13:15Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+535,2026-10-28T11:13:30Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+536,2026-10-28T11:13:45Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+537,2026-10-28T11:14:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+538,2026-10-28T11:14:15Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+539,2026-10-28T11:14:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+540,2026-10-28T11:14:45Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+541,2026-10-28T11:15:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+542,2026-10-28T11:15:15Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+543,2026-10-28T11:15:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+544,2026-10-28T11:15:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+545,2026-10-28T11:16:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+546,2026-10-28T11:16:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+547,2026-10-28T11:16:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+548,2026-10-28T11:16:45Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+549,2026-10-28T11:17:00Z,How long do I have to return boots in Canada?,2026-10-29,after_EV-0002,ret_ca_fw
+550,2026-10-28T11:17:15Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+551,2026-10-28T11:17:30Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+552,2026-10-28T11:17:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+553,2026-10-28T11:18:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+554,2026-10-28T11:18:15Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+555,2026-10-28T11:18:30Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+556,2026-10-28T11:18:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+557,2026-10-28T11:19:00Z,What is the student discount?,2026-10-29,after_EV-0002,student
+558,2026-10-28T11:19:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+559,2026-10-28T11:19:30Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+560,2026-10-28T11:19:45Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+561,2026-10-28T11:20:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+562,2026-10-28T11:20:15Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+563,2026-10-28T11:20:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+564,2026-10-28T11:20:45Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+565,2026-10-28T11:21:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+566,2026-10-28T11:21:15Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+567,2026-10-28T11:21:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+568,2026-10-28T11:21:45Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+569,2026-10-28T11:22:00Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+570,2026-10-28T11:22:15Z,How should I clean the Summit Down Jacket?,2026-10-29,after_EV-0002,care_down
+571,2026-10-28T11:22:30Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+572,2026-10-28T11:22:45Z,How long does standard shipping take to Canada?,2026-10-29,after_EV-0002,ship_ca_std
+573,2026-10-28T11:23:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+574,2026-10-28T11:23:15Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+575,2026-10-28T11:23:30Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+576,2026-10-28T11:23:45Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+577,2026-10-28T11:24:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+578,2026-10-28T11:24:15Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+579,2026-10-28T11:24:30Z,How long do I have to return boots in the UK?,2026-10-29,after_EV-0002,ret_uk_fw
+580,2026-10-28T11:24:45Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+581,2026-10-28T11:25:00Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+582,2026-10-28T11:25:15Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+583,2026-10-28T11:25:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+584,2026-10-28T11:25:45Z,How do I wash my down jacket?,2026-10-29,after_EV-0002,care_down
+585,2026-10-28T11:26:00Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+586,2026-10-28T11:26:15Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+587,2026-10-28T11:26:30Z,How long does my reset link last?,2026-10-29,after_EV-0002,pwreset
+588,2026-10-28T11:26:45Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std
+589,2026-10-28T11:27:00Z,What does expedited shipping cost in the United States?,2026-10-29,after_EV-0002,ship_us_exp
+590,2026-10-28T11:27:15Z,How long do I have to return boots in the US?,2026-10-29,after_EV-0002,ret_us_fw
+591,2026-10-28T11:27:30Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+592,2026-10-28T11:27:45Z,US return window for a rain jacket?,2026-10-29,after_EV-0002,ret_us_app
+593,2026-10-28T11:28:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+594,2026-10-28T11:28:15Z,How much is expedited shipping in the US?,2026-10-29,after_EV-0002,ship_us_exp
+595,2026-10-28T11:28:30Z,How much do I need to spend for free US shipping?,2026-10-29,after_EV-0002,ship_us_std
+596,2026-10-28T11:28:45Z,What is the US return window for hiking boots?,2026-10-29,after_EV-0002,ret_us_fw
+597,2026-10-28T11:29:00Z,US expedited shipping price?,2026-10-29,after_EV-0002,ship_us_exp
+598,2026-10-28T11:29:15Z,Do gift cards expire?,2026-10-29,after_EV-0002,giftcard
+599,2026-10-28T11:29:30Z,How long is a password reset link valid?,2026-10-29,after_EV-0002,pwreset
+600,2026-10-28T11:29:45Z,What's the minimum for free shipping in the US?,2026-10-29,after_EV-0002,ship_us_std

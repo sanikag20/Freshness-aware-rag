@@ -1,0 +1,4 @@
+system,n_calls,p50_ms,p95_ms
+"baseline: BM25, no filter, never abstains",136,6.4,16.5
+"v1: original system (in-corpus successors, v1 extractor)",136,34.7,60.0
+v2: final system,136,67.4,99.8

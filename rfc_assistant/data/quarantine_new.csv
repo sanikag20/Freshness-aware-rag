@@ -1,0 +1,10 @@
+rfc,title,date,status,obsoletes,obsoleted_by,updated_by,violation,effective_date,tier
+456,Memorandum: Date change of mail meeting,February 1973,UNKNOWN,[],[],[],implausibly_short_document,1973-02-01,legacy
+461,Telnet Protocol meeting announcement,February 1973,UNKNOWN,[],[],[],implausibly_short_document,1973-02-01,legacy
+571,TENEX FTP PROBLEM,November 1973,UNKNOWN,[],[],[],implausibly_short_document,1973-11-01,legacy
+574,Announcement of a Mail Facility at UCSB,September 1973,UNKNOWN,[],[],[],implausibly_short_document,1973-09-01,legacy
+587,Announcing New Telnet Options,November 1973,UNKNOWN,[],[],[],implausibly_short_document,1973-11-01,legacy
+659,Announcing additional Telnet options,October 1974,UNKNOWN,[],[],[],implausibly_short_document,1974-10-01,legacy
+688,Tentative schedule for the new Telnet implementation for the TIP,June 1975,UNKNOWN,[],[],[],implausibly_short_document,1975-06-01,legacy
+737,FTP extension: XSEN,October 1977,UNKNOWN,[],[],[],implausibly_short_document,1977-10-01,legacy
+1119,Network Time Protocol (version 2) specification and implementation,September 1989,HISTORIC,[1059],[1305],[],implausibly_short_document,1989-09-01,historic

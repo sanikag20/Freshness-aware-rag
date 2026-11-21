@@ -1,0 +1,6 @@
+configuration,timed_calls,p50_ms,p95_ms
+BM25,132,0.8,2.0
+dense,132,8.6,10.4
+hybrid,132,11.6,22.2
+hybrid+filter,132,13.0,25.4
+"answer() (final system, 2.2.6)",132,35.9,60.2

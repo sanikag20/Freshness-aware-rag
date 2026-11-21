@@ -1,0 +1,7 @@
+violation,count
+invalid_status,1
+duplicate_key_conflicting_content,2
+empty_body,1
+impossible_date,1
+duplicate_key_exact,1
+missing_article_id,1

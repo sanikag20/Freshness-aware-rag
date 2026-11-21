@@ -1,0 +1,10 @@
+system,accuracy,acc_answerable,acc_stale_trap,acc_unanswerable,stale_answer_rate,stale_citation_rate,abstain_precision,abstain_recall,citation_precision,recall@1,recall@3,mrr@5
+"baseline: BM25, no filter, never abstains",0.147,0.25,0.0,0.0,0.25,0.412,,0.0,0.382,0.542,0.75,0.63
+"v1: original system (in-corpus successors, v1 extractor)",0.5,0.35,0.5,0.8,0.0,0.083,0.8,0.8,0.708,0.75,0.917,0.826
+v2: final system,0.618,0.5,0.25,1.0,0.0,0.0,0.909,1.0,0.913,0.75,0.917,0.826
+v2 - scope guard,0.5,0.4,0.25,0.8,0.0,0.0,0.8,0.8,0.708,0.75,0.917,0.826
+v2 - trusted evidence (joke RFCs citable),0.618,0.5,0.25,1.0,0.0,0.0,0.909,1.0,0.913,0.75,0.917,0.826
+v2 with in-corpus successors only,0.559,0.5,0.25,0.8,0.0,0.08,0.889,0.8,0.84,0.75,0.917,0.826
+v2 - freshness filter,0.471,0.35,0.25,0.8,0.0,0.375,0.8,0.8,0.625,0.542,0.792,0.663
+v2 - source tiers,0.588,0.45,0.25,1.0,0.0,0.0,0.909,1.0,0.913,0.75,0.917,0.83
+v2 - abstention (min_cov = 0),0.382,0.55,0.25,0.1,0.0,0.0,1.0,0.1,0.667,0.75,0.917,0.826

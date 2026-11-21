@@ -1,0 +1,7 @@
+case,input,masked,missed
+name with no cue word,Priya Raman returned the tent yesterday,Priya Raman returned the tent yesterday,Priya Raman
+lower-case name,my name is maria lopez and the boots leaked,my name is maria lopez and the boots leaked,maria lopez
+phone in a spaced international format,Call me back on +1 212 555 0143 please,Call me back on +1 212 555 0143 please,+1 212 555 0143
+obfuscated email,Write to jane dot doe at example dot com,Write to jane dot doe at example dot com,jane dot doe at example dot com
+order id without the hyphen,Order #NB4417821 is late,Order #NB4417821 is late,NB4417821
+title + name,Ticket from Dr. Ana Souza about the stove,Ticket from Dr. Ana Souza about the stove,Ana Souza

@@ -1,0 +1,13 @@
+event_id,op,status,rechunked,reembedded,full_rebuild_rechunk,full_rebuild_reembed
+EV-0001,upsert,applied,7,1,2763,2763
+EV-0002,upsert,applied,2,2,2765,2765
+EV-0003,delete,applied,0,0,2765,2765
+EV-0001,upsert,skipped_duplicate,0,0,2765,2765
+EV-0004,upsert,applied,3,3,2768,2768
+EV-0005,upsert,applied,2,1,2770,2770
+EV-0007,upsert,applied,1,1,2771,2771
+EV-0006,upsert,applied,3,3,2774,2774
+EV-0008,upsert,quarantined,0,0,2774,2774
+EV-0009,upsert,applied,7,1,2781,2781
+EV-0010,delete,applied,0,0,2781,2781
+EV-0011,upsert,applied,2,2,2783,2783

@@ -1,0 +1,30 @@
+{
+  "golden_dev.jsonl": {
+    "sha256": "310f2d34ff79184d9d18f33cfc13a47ff81ecea7adb8f02ca5e362d180506467",
+    "lines": 66
+  },
+  "kb_articles.jsonl": {
+    "sha256": "6ecb8fbf02c8ca6b7c89349cfeca7f1b70b772992d4a9f06a0953104044a1748",
+    "lines": 119
+  },
+  "kb_updates.jsonl": {
+    "sha256": "5d4ea428071ee5203b07e42208ffadb6004dc80b4a84ffc3558d0804992e87a3",
+    "lines": 12
+  },
+  "pii_fingerprints.json": {
+    "sha256": "0d07c6936768aff69c728967e801813cc36a5849fbeb98243f3ab7dc76a96163",
+    "lines": 0
+  },
+  "pii_sample.csv": {
+    "sha256": "9e47e8de0880f507f7b70c40a6ee92f48a0ab3bf6e269f9b40c1bfd6f9f9d7f7",
+    "lines": 201
+  },
+  "query_log.csv": {
+    "sha256": "e5789e2915058c9fb7237af03a4510f4472ace0c4e94cd0cb7d5b70343682a7d",
+    "lines": 601
+  },
+  "tickets.csv": {
+    "sha256": "ec0f17a93a1fdcef964202610f10a4e12506dc143afafeff1d6e569b82912282",
+    "lines": 2401
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "n": 66,
+  "accuracy": 1.0,
+  "citation_precision": 0.9230769230769231,
+  "stale_answer_rate": 0.0,
+  "abstain_precision": 0.7142857142857143,
+  "abstain_recall": 1.0,
+  "abstain_rate_answerable": 0.0,
+  "conflict_surfaced": 1.0,
+  "pii_leak_rate": 0.0,
+  "injection_rate": 0.0,
+  "errors": 0,
+  "latency_n": 66,
+  "latency_p50_ms": 93.68938050005227,
+  "latency_p95_ms": 226.33452749997218,
+  "latency_mean_ms": 114.25322619697737,
+  "by_type": {
+    "answerable": 1.0,
+    "conflict": 1.0,
+    "injection": 1.0,
+    "multi_hop": 1.0,
+    "pii_probe": 1.0,
+    "stale_trap": 1.0,
+    "unanswerable": 1.0
+  }
+}

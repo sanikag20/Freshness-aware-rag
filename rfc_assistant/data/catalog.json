@@ -1,0 +1,2600 @@
+{
+ "source": "https://www.rfc-editor.org/rfc",
+ "retrieved": "2026-11-16",
+ "n_selected": 250,
+ "n_downloaded": 249,
+ "failed": [
+  {
+   "rfc": 418,
+   "error": "HTTP Error 404: Not Found"
+  }
+ ],
+ "rfcs": {
+  "97": {
+   "rfc": 97,
+   "title": "First Cut at a Proposed Telnet Protocol",
+   "date": "February 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "114": {
+   "rfc": 114,
+   "title": "File Transfer Protocol",
+   "date": "April 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "133": {
+   "rfc": 133,
+   "title": "File Transfer and Error Recovery",
+   "date": "April 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "137": {
+   "rfc": 137,
+   "title": "Telnet Protocol - a proposed document",
+   "date": "April 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "139": {
+   "rfc": 139,
+   "title": "Discussion of Telnet Protocol",
+   "date": "May 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "141": {
+   "rfc": 141,
+   "title": "Comments on RFC 114: A File Transfer Protocol",
+   "date": "April 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "158": {
+   "rfc": 158,
+   "title": "Telnet Protocol: A Proposed Document",
+   "date": "May 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "172": {
+   "rfc": 172,
+   "title": "The File Transfer Protocol",
+   "date": "June 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "196": {
+   "rfc": 196,
+   "title": "Mail Box Protocol",
+   "date": "July 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "206": {
+   "rfc": 206,
+   "title": "A User TELNET Description of an Initial Implementation",
+   "date": "August 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "215": {
+   "rfc": 215,
+   "title": "NCP, ICP, and Telnet: The Terminal IMP implementation",
+   "date": "August 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "216": {
+   "rfc": 216,
+   "title": "Telnet Access to UCSB's On-Line System",
+   "date": "September 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "221": {
+   "rfc": 221,
+   "title": "Mail Box Protocol: Version 2",
+   "date": "August 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "238": {
+   "rfc": 238,
+   "title": "Comments on DTP and FTP proposals",
+   "date": "September 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "250": {
+   "rfc": 250,
+   "title": "Some thoughts on file transfer",
+   "date": "October 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "265": {
+   "rfc": 265,
+   "title": "The File Transfer Protocol",
+   "date": "November 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "269": {
+   "rfc": 269,
+   "title": "Some Experience with File Transfer",
+   "date": "December 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "278": {
+   "rfc": 278,
+   "title": "Revision of the Mail Box Protocol",
+   "date": "November 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "281": {
+   "rfc": 281,
+   "title": "Suggested addition to File Transfer Protocol",
+   "date": "December 1971",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "294": {
+   "rfc": 294,
+   "title": "The Use of \"Set Data Type\" Transaction in File Transfer Protocol",
+   "date": "January 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "309": {
+   "rfc": 309,
+   "title": "Data and File Transfer Workshop Announcement",
+   "date": "March 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "310": {
+   "rfc": 310,
+   "title": "Another Look at Data and File Transfer Protocols",
+   "date": "April 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "318": {
+   "rfc": 318,
+   "title": "Telnet Protocols",
+   "date": "April 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "327": {
+   "rfc": 327,
+   "title": "Data and File Transfer workshop notes",
+   "date": "April 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "328": {
+   "rfc": 328,
+   "title": "Suggested Telnet Protocol Changes",
+   "date": "April 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "339": {
+   "rfc": 339,
+   "title": "MLTNET: A \"Multi Telnet\" Subsystem for Tenex",
+   "date": "May 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "340": {
+   "rfc": 340,
+   "title": "Proposed Telnet Changes",
+   "date": "May 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "354": {
+   "rfc": 354,
+   "title": "File Transfer Protocol",
+   "date": "July 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "385": {
+   "rfc": 385,
+   "title": "Comments on the File Transfer Protocol",
+   "date": "August 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "393": {
+   "rfc": 393,
+   "title": "Comments on Telnet Protocol Changes",
+   "date": "October 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "412": {
+   "rfc": 412,
+   "title": "User FTP Documentation",
+   "date": "November 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "414": {
+   "rfc": 414,
+   "title": "File Transfer Protocol (FTP) status and further comments",
+   "date": "December 1972",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "430": {
+   "rfc": 430,
+   "title": "Comments on File Transfer Protocol",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "435": {
+   "rfc": 435,
+   "title": "Telnet issues",
+   "date": "January 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "438": {
+   "rfc": 438,
+   "title": "FTP server-server interaction",
+   "date": "January 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "448": {
+   "rfc": 448,
+   "title": "Print files in FTP",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "452": {
+   "rfc": 452,
+   "title": "TELNET Command at Host LL",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "453": {
+   "rfc": 453,
+   "title": "Meeting announcement to discuss a network mail system",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "454": {
+   "rfc": 454,
+   "title": "File Transfer Protocol - meeting announcement and a new proposed document",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "456": {
+   "rfc": 456,
+   "title": "Memorandum: Date change of mail meeting",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "458": {
+   "rfc": 458,
+   "title": "Mail retrieval via FTP",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "461": {
+   "rfc": 461,
+   "title": "Telnet Protocol meeting announcement",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "463": {
+   "rfc": 463,
+   "title": "FTP comments and response to RFC 430",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "466": {
+   "rfc": 466,
+   "title": "Telnet logger/server for host LL-67",
+   "date": "February 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "468": {
+   "rfc": 468,
+   "title": "FTP data compression",
+   "date": "March 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "469": {
+   "rfc": 469,
+   "title": "Network mail meeting summary",
+   "date": "March 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "475": {
+   "rfc": 475,
+   "title": "FTP and Network Mail System",
+   "date": "March 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "478": {
+   "rfc": 478,
+   "title": "FTP server-server interaction - II",
+   "date": "March 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "479": {
+   "rfc": 479,
+   "title": "Use of FTP by the NIC Journal",
+   "date": "March 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "480": {
+   "rfc": 480,
+   "title": "Host-dependent FTP parameters",
+   "date": "March 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "487": {
+   "rfc": 487,
+   "title": "Free file transfer",
+   "date": "April 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "495": {
+   "rfc": 495,
+   "title": "Telnet Protocol specifications",
+   "date": "May 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "498": {
+   "rfc": 498,
+   "title": "On mail service to CCN",
+   "date": "April 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "501": {
+   "rfc": 501,
+   "title": "Un-muddling \"free file transfer\"",
+   "date": "May 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "505": {
+   "rfc": 505,
+   "title": "Two solutions to a file transfer access problem",
+   "date": "June 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "506": {
+   "rfc": 506,
+   "title": "FTP command naming problem",
+   "date": "June 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "513": {
+   "rfc": 513,
+   "title": "Comments on the new Telnet specifications",
+   "date": "May 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "520": {
+   "rfc": 520,
+   "title": "Memo to FTP group: Proposal for File Access Protocol",
+   "date": "June 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "524": {
+   "rfc": 524,
+   "title": "Proposed Mail Protocol",
+   "date": "June 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "532": {
+   "rfc": 532,
+   "title": "UCSD-CC Server-FTP facility",
+   "date": "July 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "539": {
+   "rfc": 539,
+   "title": "Thoughts on the mail protocol proposed in RFC 524",
+   "date": "July 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "542": {
+   "rfc": 542,
+   "title": "File Transfer Protocol",
+   "date": "August 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "555": {
+   "rfc": 555,
+   "title": "Responses to critiques of the proposed mail protocol",
+   "date": "July 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "559": {
+   "rfc": 559,
+   "title": "Comments on The New Telnet Protocol and its Implementation",
+   "date": "August 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "560": {
+   "rfc": 560,
+   "title": "Remote Controlled Transmission and Echoing Telnet option",
+   "date": "August 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "561": {
+   "rfc": 561,
+   "title": "Standardizing Network Mail Headers",
+   "date": "September 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "562": {
+   "rfc": 562,
+   "title": "Modifications to the TELNET Specification",
+   "date": "August 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "563": {
+   "rfc": 563,
+   "title": "Comments on the RCTE Telnet option",
+   "date": "August 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "571": {
+   "rfc": 571,
+   "title": "TENEX FTP PROBLEM",
+   "date": "November 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "573": {
+   "rfc": 573,
+   "title": "DATA AND FILE TRANSFER - SOME MEASUREMENT RESULTS",
+   "date": "September 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "574": {
+   "rfc": 574,
+   "title": "Announcement of a Mail Facility at UCSB",
+   "date": "September 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "577": {
+   "rfc": 577,
+   "title": "Mail priority",
+   "date": "October 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "581": {
+   "rfc": 581,
+   "title": "Corrections to RFC 560: Remote Controlled Transmission and Echoing Telnet Option",
+   "date": "November 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "587": {
+   "rfc": 587,
+   "title": "Announcing New Telnet Options",
+   "date": "November 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "593": {
+   "rfc": 593,
+   "title": "Telnet and FTP implementation schedule change",
+   "date": "November 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "595": {
+   "rfc": 595,
+   "title": "Second thoughts in defense of the Telnet Go-Ahead",
+   "date": "December 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "596": {
+   "rfc": 596,
+   "title": "Second thoughts on Telnet Go-Ahead",
+   "date": "December 1973",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "607": {
+   "rfc": 607,
+   "title": "Comments on the File Transfer Protocol",
+   "date": "January 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "614": {
+   "rfc": 614,
+   "title": "Response to RFC 607: \"Comments on the File Transfer Protocol\"",
+   "date": "January 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "624": {
+   "rfc": 624,
+   "title": "Comments on the File Transfer Protocol",
+   "date": "February 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "630": {
+   "rfc": 630,
+   "title": "FTP error code usage for more reliable mail service",
+   "date": "April 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "640": {
+   "rfc": 640,
+   "title": "Revised FTP reply codes",
+   "date": "June 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "644": {
+   "rfc": 644,
+   "title": "On the problem of signature authentication for network mail",
+   "date": "July 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "651": {
+   "rfc": 651,
+   "title": "Revised Telnet status option",
+   "date": "October 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "652": {
+   "rfc": 652,
+   "title": "Telnet output carriage-return disposition option",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "653": {
+   "rfc": 653,
+   "title": "Telnet output horizontal tabstops option",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "654": {
+   "rfc": 654,
+   "title": "Telnet output horizontal tab disposition option",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "655": {
+   "rfc": 655,
+   "title": "Telnet output formfeed disposition option",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "656": {
+   "rfc": 656,
+   "title": "Telnet output vertical tabstops option",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "657": {
+   "rfc": 657,
+   "title": "Telnet output vertical tab disposition option",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "658": {
+   "rfc": 658,
+   "title": "Telnet output linefeed disposition",
+   "date": "October 1974",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "659": {
+   "rfc": 659,
+   "title": "Announcing additional Telnet options",
+   "date": "October 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "669": {
+   "rfc": 669,
+   "title": "November, 1974, survey of New-Protocol Telnet servers",
+   "date": "December 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "679": {
+   "rfc": 679,
+   "title": "February, 1975, survey of New-Protocol Telnet servers",
+   "date": "February 1975",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "688": {
+   "rfc": 688,
+   "title": "Tentative schedule for the new Telnet implementation for the TIP",
+   "date": "June 1975",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "691": {
+   "rfc": 691,
+   "title": "One more try on the FTP",
+   "date": "June 1975",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "697": {
+   "rfc": 697,
+   "title": "CWD command of FTP",
+   "date": "July 1975",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "698": {
+   "rfc": 698,
+   "title": "Telnet extended ASCII option",
+   "date": "July 1975",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    5198
+   ],
+   "updated_by": []
+  },
+  "701": {
+   "rfc": 701,
+   "title": "August, 1974, survey of New-Protocol Telnet servers",
+   "date": "August 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "702": {
+   "rfc": 702,
+   "title": "September, 1974, survey of New-Protocol Telnet servers",
+   "date": "September 1974",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "703": {
+   "rfc": 703,
+   "title": "July, 1975, survey of New-Protocol Telnet Servers",
+   "date": "July 1975",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "706": {
+   "rfc": 706,
+   "title": "On the junk mail problem",
+   "date": "November 1975",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "720": {
+   "rfc": 720,
+   "title": "Address Specification Syntax for Network Mail",
+   "date": "August 1976",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "726": {
+   "rfc": 726,
+   "title": "Remote Controlled Transmission and Echoing Telnet option",
+   "date": "March 1977",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "727": {
+   "rfc": 727,
+   "title": "Telnet logout option",
+   "date": "April 1977",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "728": {
+   "rfc": 728,
+   "title": "Minor pitfall in the Telnet Protocol",
+   "date": "April 1977",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "729": {
+   "rfc": 729,
+   "title": "Telnet byte macro option",
+   "date": "May 1977",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "731": {
+   "rfc": 731,
+   "title": "Telnet Data Entry Terminal option",
+   "date": "June 1977",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "732": {
+   "rfc": 732,
+   "title": "Telnet Data Entry Terminal option",
+   "date": "September 1977",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    1043
+   ]
+  },
+  "735": {
+   "rfc": 735,
+   "title": "Revised Telnet byte macro option",
+   "date": "November 1977",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "736": {
+   "rfc": 736,
+   "title": "Telnet SUPDUP option",
+   "date": "October 1977",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "737": {
+   "rfc": 737,
+   "title": "FTP extension: XSEN",
+   "date": "October 1977",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "743": {
+   "rfc": 743,
+   "title": "FTP extension: XRSQ/XRCP",
+   "date": "December 1977",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "748": {
+   "rfc": 748,
+   "title": "Telnet randomly-lose option",
+   "date": "April 1978",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "749": {
+   "rfc": 749,
+   "title": "Telnet SUPDUP-Output option",
+   "date": "September 1978",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "751": {
+   "rfc": 751,
+   "title": "Survey of FTP mail and MLFL",
+   "date": "December 1978",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "753": {
+   "rfc": 753,
+   "title": "Internet Message Protocol",
+   "date": "March 1979",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "754": {
+   "rfc": 754,
+   "title": "Out-of-net host addresses for mail",
+   "date": "April 1979",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "756": {
+   "rfc": 756,
+   "title": "NIC name server - a datagram-based information utility",
+   "date": "July 1979",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "759": {
+   "rfc": 759,
+   "title": "Internet Message Protocol",
+   "date": "August 1980",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "760": {
+   "rfc": 760,
+   "title": "DoD standard Internet Protocol",
+   "date": "January 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "764": {
+   "rfc": 764,
+   "title": "Telnet Protocol specification",
+   "date": "June 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "765": {
+   "rfc": 765,
+   "title": "File Transfer Protocol specification",
+   "date": "June 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "766": {
+   "rfc": 766,
+   "title": "Internet Protocol Handbook: Table of contents",
+   "date": "July 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "768": {
+   "rfc": 768,
+   "title": "User Datagram Protocol",
+   "date": "August 1980",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    9868
+   ]
+  },
+  "771": {
+   "rfc": 771,
+   "title": "Mail transition plan",
+   "date": "September 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "772": {
+   "rfc": 772,
+   "title": "Mail Transfer Protocol",
+   "date": "September 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "773": {
+   "rfc": 773,
+   "title": "Comments on NCP/TCP mail service transition strategy",
+   "date": "October 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "774": {
+   "rfc": 774,
+   "title": "Internet Protocol Handbook: Table of contents",
+   "date": "October 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "775": {
+   "rfc": 775,
+   "title": "Directory oriented FTP commands",
+   "date": "December 1980",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "779": {
+   "rfc": 779,
+   "title": "Telnet send-location option",
+   "date": "April 1981",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "780": {
+   "rfc": 780,
+   "title": "Mail Transfer Protocol",
+   "date": "May 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "781": {
+   "rfc": 781,
+   "title": "Specification of the Internet Protocol (IP) timestamp option",
+   "date": "May 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "784": {
+   "rfc": 784,
+   "title": "Mail Transfer Protocol: ISI TOPS20 implementation",
+   "date": "July 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "785": {
+   "rfc": 785,
+   "title": "Mail Transfer Protocol: ISI TOPS20 file definitions",
+   "date": "July 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "786": {
+   "rfc": 786,
+   "title": "Mail Transfer Protocol: ISI TOPS20 MTP-NIMAIL interface",
+   "date": "July 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "788": {
+   "rfc": 788,
+   "title": "Simple Mail Transfer Protocol",
+   "date": "November 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "791": {
+   "rfc": 791,
+   "title": "Internet Protocol",
+   "date": "September 1981",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    1349,
+    2474,
+    6864
+   ]
+  },
+  "792": {
+   "rfc": 792,
+   "title": "Internet Control Message Protocol",
+   "date": "September 1981",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    4884,
+    6633,
+    6918
+   ]
+  },
+  "793": {
+   "rfc": 793,
+   "title": "Transmission Control Protocol",
+   "date": "September 1981",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    9293
+   ],
+   "updated_by": [
+    1122,
+    3168,
+    6093,
+    6528
+   ]
+  },
+  "801": {
+   "rfc": 801,
+   "title": "NCP/TCP transition plan",
+   "date": "November 1981",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "805": {
+   "rfc": 805,
+   "title": "Computer mail meeting notes",
+   "date": "February 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "807": {
+   "rfc": 807,
+   "title": "Multimedia mail meeting notes",
+   "date": "February 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "808": {
+   "rfc": 808,
+   "title": "Summary of computer mail services meeting held at BBN on 10 January 1979",
+   "date": "January 1979",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "813": {
+   "rfc": 813,
+   "title": "Window and Acknowledgement Strategy in TCP",
+   "date": "July 1982",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [
+    7805
+   ],
+   "updated_by": []
+  },
+  "815": {
+   "rfc": 815,
+   "title": "IP datagram reassembly algorithms",
+   "date": "July 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "818": {
+   "rfc": 818,
+   "title": "Remote User Telnet service",
+   "date": "November 1982",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "819": {
+   "rfc": 819,
+   "title": "The Domain Naming Convention for Internet User Applications",
+   "date": "August 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "821": {
+   "rfc": 821,
+   "title": "Simple Mail Transfer Protocol",
+   "date": "August 1982",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    2821
+   ],
+   "updated_by": []
+  },
+  "822": {
+   "rfc": 822,
+   "title": "STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT MESSAGES",
+   "date": "August 1982",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    2822
+   ],
+   "updated_by": [
+    1123,
+    1138,
+    1148,
+    1327,
+    2156
+   ]
+  },
+  "826": {
+   "rfc": 826,
+   "title": "An Ethernet Address Resolution Protocol: Or Converting Network Protocol Addresses to 48.bit Ethernet Address for Transmission on Ethernet Hardware",
+   "date": "November 1982",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    5227,
+    5494
+   ]
+  },
+  "832": {
+   "rfc": 832,
+   "title": "Who talks TCP?",
+   "date": "December 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "833": {
+   "rfc": 833,
+   "title": "Who talks TCP?",
+   "date": "December 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "834": {
+   "rfc": 834,
+   "title": "Who talks TCP?",
+   "date": "December 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "835": {
+   "rfc": 835,
+   "title": "Who talks TCP?",
+   "date": "December 1982",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "836": {
+   "rfc": 836,
+   "title": "Who talks TCP?",
+   "date": "January 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "837": {
+   "rfc": 837,
+   "title": "Who talks TCP?",
+   "date": "January 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "838": {
+   "rfc": 838,
+   "title": "Who talks TCP?",
+   "date": "January 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "839": {
+   "rfc": 839,
+   "title": "Who talks TCP?",
+   "date": "January 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "842": {
+   "rfc": 842,
+   "title": "Who talks TCP? - survey of 1 February 83",
+   "date": "February 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "843": {
+   "rfc": 843,
+   "title": "Who talks TCP? - survey of 8 February 83",
+   "date": "February 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "844": {
+   "rfc": 844,
+   "title": "Who talks ICMP, too? - Survey of 18 February 1983",
+   "date": "February 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "845": {
+   "rfc": 845,
+   "title": "Who talks TCP? - survey of 15 February 1983",
+   "date": "February 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "846": {
+   "rfc": 846,
+   "title": "Who talks TCP? - survey of 22 February 1983",
+   "date": "February 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "848": {
+   "rfc": 848,
+   "title": "Who provides the \"little\" TCP services?",
+   "date": "March 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "854": {
+   "rfc": 854,
+   "title": "Telnet Protocol Specification",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    5198
+   ]
+  },
+  "855": {
+   "rfc": 855,
+   "title": "Telnet Option Specifications",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "856": {
+   "rfc": 856,
+   "title": "Telnet Binary Transmission",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "857": {
+   "rfc": 857,
+   "title": "Telnet Echo Option",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "858": {
+   "rfc": 858,
+   "title": "Telnet Suppress Go Ahead Option",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "859": {
+   "rfc": 859,
+   "title": "Telnet Status Option",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "860": {
+   "rfc": 860,
+   "title": "Telnet Timing Mark Option",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "861": {
+   "rfc": 861,
+   "title": "Telnet Extended Options: List Option",
+   "date": "May 1983",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "872": {
+   "rfc": 872,
+   "title": "TCP-on-a-LAN",
+   "date": "September 1982",
+   "status": "INFORMATIONAL",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "876": {
+   "rfc": 876,
+   "title": "Survey of SMTP implementations",
+   "date": "September 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "879": {
+   "rfc": 879,
+   "title": "The TCP Maximum Segment Size and Related Topics",
+   "date": "November 1983",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [
+    7805,
+    9293
+   ],
+   "updated_by": [
+    6691
+   ]
+  },
+  "881": {
+   "rfc": 881,
+   "title": "Domain names plan and schedule",
+   "date": "November 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "882": {
+   "rfc": 882,
+   "title": "Domain names: Concepts and facilities",
+   "date": "November 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1034,
+    1035
+   ],
+   "updated_by": []
+  },
+  "883": {
+   "rfc": 883,
+   "title": "Domain names: Implementation specification",
+   "date": "November 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1034,
+    1035
+   ],
+   "updated_by": []
+  },
+  "884": {
+   "rfc": 884,
+   "title": "Telnet terminal type option",
+   "date": "December 1983",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "885": {
+   "rfc": 885,
+   "title": "Telnet end of record option",
+   "date": "December 1983",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "896": {
+   "rfc": 896,
+   "title": "Congestion Control in IP/TCP Internetworks",
+   "date": "January 1984",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [
+    7805
+   ],
+   "updated_by": []
+  },
+  "897": {
+   "rfc": 897,
+   "title": "Domain name system implementation schedule",
+   "date": "February 1984",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "902": {
+   "rfc": 902,
+   "title": "ARPA Internet Protocol policy",
+   "date": "July 1984",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "910": {
+   "rfc": 910,
+   "title": "Multimedia mail meeting notes",
+   "date": "August 1984",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "913": {
+   "rfc": 913,
+   "title": "Simple File Transfer Protocol",
+   "date": "September 1984",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "915": {
+   "rfc": 915,
+   "title": "Network mail path service",
+   "date": "December 1984",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "920": {
+   "rfc": 920,
+   "title": "Domain requirements",
+   "date": "October 1984",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "921": {
+   "rfc": 921,
+   "title": "Domain name system implementation schedule - revised",
+   "date": "October 1984",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "927": {
+   "rfc": 927,
+   "title": "TACACS user identification Telnet option",
+   "date": "December 1984",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "930": {
+   "rfc": 930,
+   "title": "Telnet terminal type option",
+   "date": "January 1985",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1091
+   ],
+   "updated_by": []
+  },
+  "933": {
+   "rfc": 933,
+   "title": "Output marking Telnet option",
+   "date": "January 1985",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "946": {
+   "rfc": 946,
+   "title": "Telnet terminal location number option",
+   "date": "May 1985",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "949": {
+   "rfc": 949,
+   "title": "FTP unique-named store command",
+   "date": "July 1985",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "958": {
+   "rfc": 958,
+   "title": "Network Time Protocol (NTP)",
+   "date": "September 1985",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1059,
+    1119,
+    1305
+   ],
+   "updated_by": []
+  },
+  "959": {
+   "rfc": 959,
+   "title": "File Transfer Protocol",
+   "date": "October 1985",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    2228,
+    2640,
+    2773,
+    3659,
+    5797,
+    7151
+   ]
+  },
+  "962": {
+   "rfc": 962,
+   "title": "TCP-4 prime",
+   "date": "November 1985",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "963": {
+   "rfc": 963,
+   "title": "Some problems with the specification of the Military Standard Internet Protocol",
+   "date": "November 1985",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "966": {
+   "rfc": 966,
+   "title": "Host groups: A multicast extension to the Internet Protocol",
+   "date": "December 1985",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "973": {
+   "rfc": 973,
+   "title": "Domain system changes and observations",
+   "date": "January 1986",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1034,
+    1035
+   ],
+   "updated_by": []
+  },
+  "974": {
+   "rfc": 974,
+   "title": "Mail routing and the domain system",
+   "date": "January 1986",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [
+    2821
+   ],
+   "updated_by": []
+  },
+  "976": {
+   "rfc": 976,
+   "title": "UUCP mail interchange format standard",
+   "date": "February 1986",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    1137
+   ]
+  },
+  "982": {
+   "rfc": 982,
+   "title": "Guidelines for the specification of the structure of the Domain Specific Part (DSP) of the ISO standard NSAP address",
+   "date": "April 1986",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "983": {
+   "rfc": 983,
+   "title": "ISO transport arrives on top of the TCP",
+   "date": "April 1986",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1006
+   ],
+   "updated_by": []
+  },
+  "1006": {
+   "rfc": 1006,
+   "title": "ISO Transport Service on top of the TCP Version: 3",
+   "date": "May 1987",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    2126
+   ]
+  },
+  "1034": {
+   "rfc": 1034,
+   "title": "Domain names - concepts and facilities",
+   "date": "November 1987",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    1101,
+    1183,
+    1348,
+    1876,
+    1982,
+    2065,
+    2181,
+    2308,
+    2535,
+    4033,
+    4034,
+    4035,
+    4343,
+    4592,
+    5936,
+    8020,
+    8482,
+    8767,
+    9471
+   ]
+  },
+  "1035": {
+   "rfc": 1035,
+   "title": "Domain names - implementation and specification",
+   "date": "November 1987",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    1101,
+    1183,
+    1348,
+    1876,
+    1982,
+    1995,
+    1996,
+    2065,
+    2136,
+    2137,
+    2181,
+    2308,
+    2535,
+    2673,
+    2845,
+    3425,
+    3658,
+    4033,
+    4034,
+    4035,
+    4343,
+    5936,
+    5966,
+    6604,
+    7766,
+    8482,
+    8490,
+    8767,
+    9619
+   ]
+  },
+  "1059": {
+   "rfc": 1059,
+   "title": "Network Time Protocol (version 1) specification and implementation",
+   "date": "July 1988",
+   "status": "UNKNOWN",
+   "obsoletes": [],
+   "obsoleted_by": [
+    1119,
+    1305
+   ],
+   "updated_by": []
+  },
+  "1091": {
+   "rfc": 1091,
+   "title": "Telnet terminal-type option",
+   "date": "February 1989",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "1119": {
+   "rfc": 1119,
+   "title": "Network Time Protocol (version 2) specification and implementation",
+   "date": "September 1989",
+   "status": "HISTORIC",
+   "obsoletes": [
+    1059
+   ],
+   "obsoleted_by": [
+    1305
+   ],
+   "updated_by": []
+  },
+  "1149": {
+   "rfc": 1149,
+   "title": "Standard for the transmission of IP datagrams on avian carriers",
+   "date": "April 1990",
+   "status": "EXPERIMENTAL",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    2549,
+    6214
+   ]
+  },
+  "1305": {
+   "rfc": 1305,
+   "title": "Network Time Protocol (Version 3) Specification, Implementation and Analysis",
+   "date": "March 1992",
+   "status": "HISTORIC",
+   "obsoletes": [
+    1059,
+    1119
+   ],
+   "obsoleted_by": [
+    5905
+   ],
+   "updated_by": []
+  },
+  "1738": {
+   "rfc": 1738,
+   "title": "Uniform Resource Locators (URL)",
+   "date": "December 1994",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    4248,
+    4266
+   ],
+   "updated_by": [
+    1808,
+    2368,
+    2396,
+    3986,
+    6196,
+    6270,
+    8089
+   ]
+  },
+  "1866": {
+   "rfc": 1866,
+   "title": "Hypertext Markup Language - 2.0",
+   "date": "November 1995",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [
+    2854
+   ],
+   "updated_by": []
+  },
+  "1945": {
+   "rfc": 1945,
+   "title": "Hypertext Transfer Protocol -- HTTP/1.0",
+   "date": "May 1996",
+   "status": "INFORMATIONAL",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "2068": {
+   "rfc": 2068,
+   "title": "Hypertext Transfer Protocol -- HTTP/1.1",
+   "date": "January 1997",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    2616
+   ],
+   "updated_by": []
+  },
+  "2246": {
+   "rfc": 2246,
+   "title": "The TLS Protocol Version 1.0",
+   "date": "January 1999",
+   "status": "HISTORIC",
+   "obsoletes": [],
+   "obsoleted_by": [
+    4346
+   ],
+   "updated_by": [
+    3546,
+    5746,
+    6176,
+    7465,
+    7507,
+    7919
+   ]
+  },
+  "2324": {
+   "rfc": 2324,
+   "title": "Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)",
+   "date": "April 1998",
+   "status": "INFORMATIONAL",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    7168
+   ]
+  },
+  "2396": {
+   "rfc": 2396,
+   "title": "Uniform Resource Identifiers (URI): Generic Syntax",
+   "date": "August 1998",
+   "status": "DRAFT STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    3986
+   ],
+   "updated_by": [
+    2732
+   ]
+  },
+  "2460": {
+   "rfc": 2460,
+   "title": "Internet Protocol, Version 6 (IPv6) Specification",
+   "date": "December 1998",
+   "status": "DRAFT STANDARD",
+   "obsoletes": [
+    1883
+   ],
+   "obsoleted_by": [
+    8200
+   ],
+   "updated_by": [
+    5095,
+    5722,
+    5871,
+    6437,
+    6564,
+    6935,
+    6946,
+    7045,
+    7112
+   ]
+  },
+  "2616": {
+   "rfc": 2616,
+   "title": "Hypertext Transfer Protocol -- HTTP/1.1",
+   "date": "June 1999",
+   "status": "DRAFT STANDARD",
+   "obsoletes": [
+    2068
+   ],
+   "obsoleted_by": [
+    7230,
+    7231,
+    7232,
+    7233,
+    7234,
+    7235
+   ],
+   "updated_by": [
+    2817,
+    5785,
+    6266,
+    6585
+   ]
+  },
+  "2818": {
+   "rfc": 2818,
+   "title": "HTTP Over TLS",
+   "date": "May 2000",
+   "status": "INFORMATIONAL",
+   "obsoletes": [],
+   "obsoleted_by": [
+    9110
+   ],
+   "updated_by": [
+    5785,
+    7230
+   ]
+  },
+  "2821": {
+   "rfc": 2821,
+   "title": "Simple Mail Transfer Protocol",
+   "date": "April 2001",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    1869
+   ],
+   "obsoleted_by": [
+    5321
+   ],
+   "updated_by": [
+    5336
+   ]
+  },
+  "2822": {
+   "rfc": 2822,
+   "title": "Internet Message Format",
+   "date": "April 2001",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    5322
+   ],
+   "updated_by": [
+    5335,
+    5336
+   ]
+  },
+  "3986": {
+   "rfc": 3986,
+   "title": "Uniform Resource Identifier (URI): Generic Syntax",
+   "date": "January 2005",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [
+    1808,
+    2396,
+    2732
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    7320,
+    8820
+   ]
+  },
+  "4251": {
+   "rfc": 4251,
+   "title": "The Secure Shell (SSH) Protocol Architecture",
+   "date": "January 2006",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    8308,
+    9141
+   ]
+  },
+  "4346": {
+   "rfc": 4346,
+   "title": "The Transport Layer Security (TLS) Protocol Version 1.1",
+   "date": "April 2006",
+   "status": "HISTORIC",
+   "obsoletes": [
+    2246
+   ],
+   "obsoleted_by": [
+    5246
+   ],
+   "updated_by": [
+    4366,
+    4680,
+    4681,
+    5746,
+    6176,
+    7465,
+    7507,
+    7919,
+    1001
+   ]
+  },
+  "4627": {
+   "rfc": 4627,
+   "title": "The application/json Media Type for JavaScript Object Notation (JSON)",
+   "date": "July 2006",
+   "status": "INFORMATIONAL",
+   "obsoletes": [],
+   "obsoleted_by": [
+    7159
+   ],
+   "updated_by": []
+  },
+  "5198": {
+   "rfc": 5198,
+   "title": "Unicode Format for Network Interchange",
+   "date": "March 2008",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "5246": {
+   "rfc": 5246,
+   "title": "The Transport Layer Security (TLS) Protocol Version 1.2",
+   "date": "August 2008",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    3268,
+    4346,
+    4366
+   ],
+   "obsoleted_by": [
+    8446,
+    9846
+   ],
+   "updated_by": [
+    5746,
+    5878,
+    6176,
+    7465,
+    7507,
+    7568,
+    7627,
+    7685,
+    7905,
+    7919,
+    8447,
+    9155,
+    1001
+   ]
+  },
+  "5321": {
+   "rfc": 5321,
+   "title": "Simple Mail Transfer Protocol",
+   "date": "October 2008",
+   "status": "DRAFT STANDARD",
+   "obsoletes": [
+    2821
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    7504
+   ]
+  },
+  "5322": {
+   "rfc": 5322,
+   "title": "Internet Message Format",
+   "date": "October 2008",
+   "status": "DRAFT STANDARD",
+   "obsoletes": [
+    2822
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    6854
+   ]
+  },
+  "5905": {
+   "rfc": 5905,
+   "title": "Network Time Protocol Version 4: Protocol and Algorithms Specification",
+   "date": "June 2010",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    1305,
+    4330
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    7822,
+    8573,
+    9109,
+    9748,
+    9769
+   ]
+  },
+  "6265": {
+   "rfc": 6265,
+   "title": "HTTP State Management Mechanism",
+   "date": "April 2011",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    2965
+   ],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "6455": {
+   "rfc": 6455,
+   "title": "The WebSocket Protocol",
+   "date": "December 2011",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": [
+    7936,
+    8307,
+    8441
+   ]
+  },
+  "6749": {
+   "rfc": 6749,
+   "title": "The OAuth 2.0 Authorization Framework",
+   "date": "October 2012",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    5849
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    8252,
+    8996,
+    9700
+   ]
+  },
+  "7159": {
+   "rfc": 7159,
+   "title": "The JavaScript Object Notation (JSON) Data Interchange Format",
+   "date": "March 2014",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    4627,
+    7158
+   ],
+   "obsoleted_by": [
+    8259
+   ],
+   "updated_by": []
+  },
+  "7230": {
+   "rfc": 7230,
+   "title": "Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing",
+   "date": "June 2014",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    2145,
+    2616
+   ],
+   "obsoleted_by": [
+    9110,
+    9112
+   ],
+   "updated_by": [
+    8615
+   ]
+  },
+  "7231": {
+   "rfc": 7231,
+   "title": "Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
+   "date": "June 2014",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    2616
+   ],
+   "obsoleted_by": [
+    9110
+   ],
+   "updated_by": []
+  },
+  "7540": {
+   "rfc": 7540,
+   "title": "Hypertext Transfer Protocol Version 2 (HTTP/2)",
+   "date": "May 2015",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [
+    9113
+   ],
+   "updated_by": [
+    8740
+   ]
+  },
+  "7805": {
+   "rfc": 7805,
+   "title": "Moving Outdated TCP Extensions and TCP-Related Documents to Historic or Informational Status",
+   "date": "April 2016",
+   "status": "INFORMATIONAL",
+   "obsoletes": [
+    1078,
+    6013
+   ],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "8200": {
+   "rfc": 8200,
+   "title": "Internet Protocol, Version 6 (IPv6) Specification",
+   "date": "July 2017",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [
+    2460
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    9673
+   ]
+  },
+  "8259": {
+   "rfc": 8259,
+   "title": "The JavaScript Object Notation (JSON) Data Interchange Format",
+   "date": "December 2017",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [
+    7159
+   ],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "8446": {
+   "rfc": 8446,
+   "title": "The Transport Layer Security (TLS) Protocol Version 1.3",
+   "date": "August 2018",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    5077,
+    5246,
+    6961
+   ],
+   "obsoleted_by": [
+    9846
+   ],
+   "updated_by": []
+  },
+  "9110": {
+   "rfc": 9110,
+   "title": "HTTP Semantics",
+   "date": "June 2022",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [
+    2818,
+    7230,
+    7231,
+    7232,
+    7233,
+    7235,
+    7538,
+    7615,
+    7694
+   ],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "9111": {
+   "rfc": 9111,
+   "title": "HTTP Caching",
+   "date": "June 2022",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [
+    7234
+   ],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "9112": {
+   "rfc": 9112,
+   "title": "HTTP/1.1",
+   "date": "June 2022",
+   "status": "INTERNET STANDARD",
+   "obsoletes": [
+    7230
+   ],
+   "obsoleted_by": [],
+   "updated_by": [
+    9931
+   ]
+  },
+  "9113": {
+   "rfc": 9113,
+   "title": "HTTP/2",
+   "date": "June 2022",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [
+    7540,
+    8740
+   ],
+   "obsoleted_by": [],
+   "updated_by": []
+  },
+  "9114": {
+   "rfc": 9114,
+   "title": "HTTP/3",
+   "date": "June 2022",
+   "status": "PROPOSED STANDARD",
+   "obsoletes": [],
+   "obsoleted_by": [],
+   "updated_by": []
+  }
+ }
+}

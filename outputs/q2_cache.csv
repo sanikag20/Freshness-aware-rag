@@ -1,0 +1,4 @@
+tau,hit_l1,hit_l2,miss,p50_ms,p95_ms,wrong_hit_rate_l2,entries_invalidated_by_EV-0002,phase2_answers_with_stale_$14.95,phase2_answers_with_current_$19.95
+0.8,0.653,0.317,0.03,3.1,11.5,0.411,2.0,0.0,152.0
+0.92,0.725,0.238,0.037,1.9,5.6,0.28,2.0,0.0,152.0
+no cache,0.0,0.0,1.0,36.0,85.6,,,,

@@ -1,0 +1,13 @@
+event_id,op,status,rechunked,reembedded,ms
+EV-0001,upsert,applied,7,1,300.55179499998985
+EV-0002,upsert,applied,2,2,288.5372660000485
+EV-0003,delete,applied,0,0,243.78320499999973
+EV-0001,upsert,skipped_duplicate,0,0,0.010134000035577628
+EV-0004,upsert,applied,3,3,419.5984899999985
+EV-0005,upsert,applied,2,1,464.49367200000324
+EV-0007,upsert,applied,1,1,986.7715840000528
+EV-0006,upsert,applied,3,3,1460.1481149999813
+EV-0008,upsert,quarantined,0,0,0.03327899997884742
+EV-0009,upsert,applied,7,1,1520.976281000003
+EV-0010,delete,applied,0,0,325.30016700002307
+EV-0011,upsert,applied,2,2,267.0414510000114

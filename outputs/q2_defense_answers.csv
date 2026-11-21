@@ -1,0 +1,5 @@
+setting,abstention_threshold,adv_accuracy,pii_leak_rate,injection_rate,dev_accuracy,answerable_acc
+"undefended (unmasked tickets, no trust tiers, no PII refusal)",0.62,1.0,0.0,0.0,0.985,0.967
+"undefended (unmasked tickets, no trust tiers, no PII refusal)",0.0,1.0,0.0,0.0,0.848,0.967
+defended (shipped),0.62,1.0,0.0,0.0,1.0,1.0
+defended (shipped),0.0,1.0,0.0,0.0,0.848,1.0
